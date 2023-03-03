@@ -1,0 +1,1 @@
+export const NEXT_PUBLIC_CHANGELOG_URL = process.env.NEXT_PUBLIC_CHANGELOG_URL;
